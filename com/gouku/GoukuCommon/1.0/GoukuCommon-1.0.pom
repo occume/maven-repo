@@ -228,7 +228,12 @@
         <artifactId>spring-data-redis</artifactId>
         <version>2.0.5.RELEASE</version>
     </dependency>
-	
+	<!-- 短信插件 -->
+	<dependency>
+	    <groupId>com.yunpian.sdk</groupId>
+	    <artifactId>yunpian-java-sdk</artifactId>
+	    <version>1.2.7</version>
+	</dependency>
   </dependencies>
   	
 </project>
